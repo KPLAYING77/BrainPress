@@ -260,6 +260,13 @@
   "resolved" "https://registry.npmjs.org/@tanstack/virtual-core/-/virtual-core-3.13.12.tgz"
   "version" "3.13.12"
 
+"@types/basic-auth@^1.1.8":
+  "integrity" "sha512-dKcUeixGuZn8pBjcUrf1N7x5K6lWuKuwHHitM2IZ4vwZUDWEhhNtwCWiba8jTA9zn0GQQ+fTFkWpKx8pOU/enw=="
+  "resolved" "https://registry.npmjs.org/@types/basic-auth/-/basic-auth-1.1.8.tgz"
+  "version" "1.1.8"
+  dependencies:
+    "@types/node" "*"
+
 "@types/d3-array@*":
   "integrity" "sha512-Y2Jn2idRrLzUfAKV2LyRImR+y4oa2AntrgID95SHJxuMUrkNXmanDSed71sRNZysveJVt1hLLemQZIady0FpEg=="
   "resolved" "https://registry.npmjs.org/@types/d3-array/-/d3-array-3.2.1.tgz"
