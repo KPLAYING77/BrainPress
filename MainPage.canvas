@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"d186dd46e310a7c5","type":"text","text":"#### Project Management\nCheuk_ is a sub division as well as the root of all projects. Mainly focus on planning, alpha test, demo and project showcase.\nIncluding this directory on the overall management and break down, also see https://www.instagram.com/cheuky_hin/ for all prelease contents.","x":-1300,"y":-760,"width":629,"height":180},
+		{"id":"52e8f5f14e827912","type":"text","text":"# Cheuk_ Main Directory\n\n>[!info]\n>In this directory will mainly focus on project management with all current projects. Aim to make things done as well as strategically plan overhead. Shows the importance of problem solving, micro task, tracking and logging.\n\n1. Problem solving, every project we will find difficulties or at the very least we have to find a way to make it happen. For most of the time we need to explore new ways, identify the issue and find the right way to tackle.\n2. Micro task are one of the most important thing in this Directory, for better to finish these complex giant projects, the best way is to break down into small pieces. We can then keep track progress, find crucial parts, milestones and scaling for the project.\n3. Tracking the current progress of each project, we not only will have lists to record what have done and not, but also with Git hub, Netlify and other tools, which will use as backup tracking and testing. Have to be accessible for testers as well as mods.\n4. Logging part of the project as well as part of the management. Logging will be the fundamental of success, to have the manner to log what have done so far every updates. Tell others how to use, what have done, how is done. Easy for reviewing.","x":-629,"y":-760,"width":659,"height":565},
+		{"id":"483d08ec27153b8d","type":"file","file":"Self_development.canvas","x":-15,"y":80,"width":400,"height":400},
+		{"id":"1c112a252b1b44d4","type":"text","text":"## Current Project Description\n\n>[!info]\n> In the following will layout all the project which are in progress. What are the categories, project background.\n#### Logging\nIn this category will include all log base tasks. Daily base writing task to build up a vault of knowledge. With different logging projects I will setup a structure to stick with. Each logging project will have its own filter system to split notes into different groups, easy to navigate and analysis. Most log entry will be combination of my own thoughts with commentary, attach with all the online resources.\n\t **Plankelvin Project** (In Progress LIVE)\n\t\t The new project that I'm onto which combine with all the skills and habits that I have. Mainly will focus on cold case and online mysteries. Case studies, identify, categorize and linkage. This will progress to a data module project in the future to analysis all these data. Setup a model for solving real cases. \n\t**Bible Study** (In Progress LIVE)\n\t\t This is my Bible study logging project which will contain all the ideas, finding and research. This is a topic base approach, I will start from different topic themes extend to different questions and answer s log.\n\n#### Pogod\n\n\n#### Self Development\n\n\n#### Ministry\n\n","x":60,"y":-760,"width":730,"height":565,"color":"5"},
+		{"id":"143cd65902e2f584","type":"file","file":"Resources/Cheuk__logo.png","x":-1061,"y":-520,"width":151,"height":152},
+		{"id":"9aced4e7c4caa6d3","type":"text","text":"### Logging","x":-931,"y":-60,"width":260,"height":60,"color":"3"},
+		{"id":"5d0518984644d8e8","type":"text","text":"### Self Development","x":60,"y":-60,"width":250,"height":60,"color":"3"},
+		{"id":"b347797982ef089c","type":"file","file":"Progress Dashboard.md","x":-1520,"y":-300,"width":400,"height":380},
+		{"id":"437a8453e4554ea9","type":"file","file":"LoggingProject.canvas","x":-1001,"y":80,"width":400,"height":400},
+		{"id":"0c26bfc3c2f14856","type":"text","text":"### Pogod","x":-425,"y":-30,"width":250,"height":60,"color":"3"},
+		{"id":"f638e83165f4e1b2","type":"file","file":"Pogod.canvas","x":-499,"y":140,"width":400,"height":400},
+		{"id":"bce555caf7500afb","type":"file","file":"ChurchMinistry.canvas","x":465,"y":140,"width":400,"height":400},
+		{"id":"309e06d0e97d3976","type":"text","text":"### Ministry","x":540,"y":-30,"width":250,"height":60,"color":"3"},
+		{"id":"c6b1da9c3ae22498","type":"file","file":"Resources/wintheday2.png","x":-1230,"y":-1080,"width":489,"height":260}
+	],
+	"edges":[
+		{"id":"7d1bae53d1602acb","fromNode":"d186dd46e310a7c5","fromSide":"bottom","toNode":"143cd65902e2f584","toSide":"top"},
+		{"id":"54d702b77c764c12","fromNode":"9aced4e7c4caa6d3","fromSide":"bottom","toNode":"437a8453e4554ea9","toSide":"top"},
+		{"id":"009fb670d964b9fd","fromNode":"0c26bfc3c2f14856","fromSide":"bottom","toNode":"f638e83165f4e1b2","toSide":"top"},
+		{"id":"5c6d6bbb07ba167c","fromNode":"5d0518984644d8e8","fromSide":"bottom","toNode":"483d08ec27153b8d","toSide":"top"},
+		{"id":"0bdf26f91ef7e056","fromNode":"309e06d0e97d3976","fromSide":"bottom","toNode":"bce555caf7500afb","toSide":"top"},
+		{"id":"e5af3e41dddc1de1","fromNode":"c6b1da9c3ae22498","fromSide":"bottom","toNode":"d186dd46e310a7c5","toSide":"top"},
+		{"id":"30891db9f233d27c","fromNode":"52e8f5f14e827912","fromSide":"right","toNode":"1c112a252b1b44d4","toSide":"left"},
+		{"id":"321f649ed78593f6","fromNode":"143cd65902e2f584","fromSide":"left","toNode":"b347797982ef089c","toSide":"top"},
+		{"id":"7cb712832ef621b4","fromNode":"b347797982ef089c","fromSide":"right","toNode":"9aced4e7c4caa6d3","toSide":"top"},
+		{"id":"1be880e9ef405084","fromNode":"b347797982ef089c","fromSide":"right","toNode":"0c26bfc3c2f14856","toSide":"top"},
+		{"id":"945f4fb069be724f","fromNode":"b347797982ef089c","fromSide":"right","toNode":"5d0518984644d8e8","toSide":"top"},
+		{"id":"1bf9f9a8134333af","fromNode":"b347797982ef089c","fromSide":"right","toNode":"309e06d0e97d3976","toSide":"top"},
+		{"id":"34744aca7926d103","fromNode":"d186dd46e310a7c5","fromSide":"right","toNode":"52e8f5f14e827912","toSide":"left"}
+	]
+}

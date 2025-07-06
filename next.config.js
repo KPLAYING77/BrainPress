@@ -1,7 +1,19 @@
 /** @type {import('next').NextConfig} */
-const withImages = require("next-images");
 const nextConfig = {
-    reactStrictMode: true,
+  reactStrictMode: true,
+  experimental: {
+    appDir: true,
+  },
+  async headers() {
+    return [
+      {
+        source: "/(.*)",
+        headers: [
+          { key: "X-Robots-Tag", value: "noindex" }
+        ]
+      }
+    ];
+  }
 };
 
-module.exports = withImages(nextConfig);
+module.exports = nextConfig;
